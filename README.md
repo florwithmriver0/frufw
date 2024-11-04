@@ -55,4 +55,4 @@ Options:
 
 ## End of ```README.Md``` or ```Usage instructions```
 > [!NOTE]
-> Use and modification of this code is allowed```(under the following of the GNU V3.0 License. Such as no close sourcing of this software, or harmed/misintepreted use.)``` and encouraged.
+> Use and modification of this code is allowed and encouraged. ```(under the following of the GNU V3.0 License. Such as no close sourcing of this software, or harmed/misintepreted use.)```
